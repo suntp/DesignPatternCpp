@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-# DesignPatternCpp
-=======
-#DesignPattern
->>>>>>> a1ff009a67b5d6049c8ca44718a620719ca14195
-
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+实现了简单工厂，工厂，抽象工厂，适配器，迭代器，观察者和单例等常用的模式
